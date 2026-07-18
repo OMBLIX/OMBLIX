@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Мои проекты
-
+* [Shop Game — Интерактивный магазин](https://omblix.github.io/shop-game/) — мой проект на JS/CSS.
 
 ---
 
