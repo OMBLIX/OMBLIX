@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Я OMBLIX 👋
+### Python Backend & Telegram Bot Developer
 
-<!--
-**OMBLIX/OMBLIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Занимаюсь разработкой серверной логики, автоматизацией процессов (парсингом данных) и созданием функциональных Telegram-ботов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек технологий
+* **Языки:** Python, SQL
+* **Библиотеки и фреймворки:** aiogram (v3), FastAPI, Requests, BeautifulSoup, Selenium
+* **Базы данных:** SQLite, PostgreSQL
+* **Инструменты:** Git, REST API
+
+---
+
+## 🚀 Мои проекты
+
+
+---
+
+## 📬 Как со мной связаться
+* **Telegram:** @Omblix
